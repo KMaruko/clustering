@@ -6,6 +6,8 @@ Codificação dos quatro principais métodos de clusterização, sendo eles:
 
 Todos os códigos feito em Python, com a utilização de algumas bibliotecas como plot para exibição de gráficos no navegador para obter uma simulação mais real.
 
+Os dados se encontram em formato de macro, para abri-los basta abri-los em excel.
+
 ________________________________________________________________________________________________________________________________
 
 Primeiramente, o que é clusterização de dados?

@@ -1,3 +1,5 @@
+~~PYTHON 2.7.4
+
 Codificação dos quatro principais métodos de clusterização, sendo eles:
 - K-Means
 - Fuzzy C-means
